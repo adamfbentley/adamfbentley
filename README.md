@@ -3,10 +3,10 @@
 Physics graduate currently studying a master's in artificial intelligence.
 
 I'm interested in scientific machine learning, computational physics, NLP, and
-applied AI systems. Most of my projects are small research prototypes or learning
-projects rather than finished products, but they reflect the areas I am actively
+applied AI systems. Some repositories are learning projects or prototypes; others
+are ongoing research projects. Together they reflect the areas I am actively
 working in: simulation, model evaluation, data pipelines, and building tools that
-connect machine learning with real scientific questions.
+connect machine learning with real scientific and technical questions.
 
 ## Current Focus
 
@@ -27,6 +27,11 @@ connect machine learning with real scientific questions.
 - [PhysForge](https://github.com/adamfbentley/PhysForge)  
   Prototype web app for PDE discovery using physics-informed neural networks and
   sparse regression.
+
+- [ML_High_Jump_Performance_System](https://github.com/adamfbentley/ML_High_Jump_Performance_System)  
+  Ongoing biomechanics research collaboration with an elite national-champion
+  high jumper and PhD student, exploring pose estimation, physics-informed
+  modelling, and technique analysis for high jump.
 
 - [academic-literature-search](https://github.com/adamfbentley/academic-literature-search)  
   Applied AI search tool combining academic APIs with summarisation and retrieval.
