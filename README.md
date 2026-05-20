@@ -49,5 +49,4 @@ I'm looking to build stronger engineering habits around research code:
 reproducible experiments, tests, clear documentation, honest limitations, and
 projects that can be understood by someone other than me six months later.
 
-I'm especially interested in entry-level roles where AI, data science, or
-software engineering meet scientific or technical problem domains.
+
