@@ -12,7 +12,6 @@ connect machine learning with real scientific and technical questions.
 
 - Scientific machine learning and physics-informed modelling
 - Unsupervised learning for simulated physics systems
-- NLP and computational linguistics research methods
 - Building practical AI tools with clear evaluation and limitations
 
 ## Selected Projects
