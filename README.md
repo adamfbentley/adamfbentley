@@ -1,6 +1,6 @@
 # Adam Bentley
 
-Physics graduate currently studying a master's in artificial intelligence.
+Aspiring physicist currently studying a master's in artificial intelligence.
 
 I'm interested in scientific machine learning, computational physics, NLP, and
 applied AI systems. Some repositories are learning projects or prototypes; others
