@@ -26,7 +26,7 @@ connect machine learning with real scientific and technical questions.
   sparse regression.
 
 - [ML_High_Jump_Performance_System](https://github.com/adamfbentley/ML_High_Jump_Performance_System)  
-  Ongoing biomechanics research collaboration with the current national champion in high jump & biomedical researcher at GMRI, exploring pose estimation, physics-informed modelling, and technique analysis for high jump.
+  Ongoing biomechanics research collaboration with the current national champion in high jump, exploring pose estimation, physics-informed modelling, and technique analysis for high jump.
 
 - [academic-literature-search](https://github.com/adamfbentley/academic-literature-search)  
   Applied AI search tool combining academic APIs with summarisation and retrieval.
