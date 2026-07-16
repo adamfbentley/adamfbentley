@@ -24,7 +24,7 @@ scientific claims tied to reproducible calculations, tests, and source material.
 - [ml-universality-classification](https://github.com/adamfbentley/ml-universality-classification)  
   Anomaly-detection experiments for simulated surface-growth universality classes.
 
-- [evaluation-cue-isolation-ai-agents](https://github.com/adamfbentley/evaluation-cue-isolation-ai-agents)  
+- [evaluation-cue-isolation-ai-agents](https://github.com/adamfbentley/evaluation-cue-isolation-ai-agents)
   Controlled experiments on evaluation-like prompt cues in AI-agent behaviour.
 
 - [academic-literature-search](https://github.com/adamfbentley/academic-literature-search)  
