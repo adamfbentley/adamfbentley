@@ -6,9 +6,6 @@ are ongoing research projects. Together they reflect the areas I am actively
 working in: simulation, model evaluation, data pipelines, and building tools that
 connect machine learning with real scientific and technical questions.
 
-Where AI tools contribute to a project, I document their role and keep the
-scientific claims tied to reproducible calculations, tests, and source material.
-
 ## Current Focus
 
 - Scientific machine learning and physics-informed modelling
