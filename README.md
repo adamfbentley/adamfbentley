@@ -6,6 +6,9 @@ are ongoing research projects. Together they reflect the areas I am actively
 working in: simulation, model evaluation, data pipelines, and building tools that
 connect machine learning with real scientific and technical questions.
 
+Where AI tools contribute to a project, I document their role and keep the
+scientific claims tied to reproducible calculations, tests, and source material.
+
 ## Current Focus
 
 - Scientific machine learning and physics-informed modelling
@@ -21,22 +24,11 @@ connect machine learning with real scientific and technical questions.
 - [ml-universality-classification](https://github.com/adamfbentley/ml-universality-classification)  
   Anomaly-detection experiments for simulated surface-growth universality classes.
 
-- [PhysForge](https://github.com/adamfbentley/PhysForge)  
-  Prototype web app for PDE discovery using physics-informed neural networks and
-  sparse regression.
-
-- [ML_High_Jump_Performance_System](https://github.com/adamfbentley/ML_High_Jump_Performance_System)  
-  Ongoing biomechanics research collaboration with the current national champion in high jump, exploring pose estimation, physics-informed modelling, and technique analysis for high jump.
+- [evaluation-cue-isolation-ai-agents](https://github.com/adamfbentley/evaluation-cue-isolation-ai-agents)  
+  Controlled experiments on evaluation-like prompt cues in AI-agent behaviour.
 
 - [academic-literature-search](https://github.com/adamfbentley/academic-literature-search)  
   Applied AI search tool combining academic APIs with summarisation and retrieval.
-
-- [computational_linguistics_peer_review_analysis](https://github.com/adamfbentley/computational_linguistics_peer_review_analysis)  
-  Computational linguistic analysis of matched preprint and publication pairs.
-
-- [from-scratch-decision-tree-python](https://github.com/adamfbentley/from-scratch-decision-tree-python)  
-  Small ID3-style decision tree implementation written without machine-learning
-  libraries.
 
 ## What I'm Working Toward
 
